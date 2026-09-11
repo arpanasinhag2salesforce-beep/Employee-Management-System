@@ -87,7 +87,7 @@ During this project, I gained hands-on experience designing and developing a com
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/ARPANA-SINHA-g2-salesforce/blob/main/Course%20report/Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/arpanasinhag2salesforce-beep/Employee-Management-System/blob/main/SURE%20Trust-Project-Employee%20Management%20System.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
