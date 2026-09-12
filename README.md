@@ -159,10 +159,7 @@ This experience taught me that small acts of kindness 😇 can make a big differ
 
 ### **Photos**
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://github.com/sure-trust/ARPANA-SINHA-g2-salesforce/issues/1#issue-5432973354" alt="Community Service Photo 1" width="30%">
